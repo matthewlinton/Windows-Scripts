@@ -1,0 +1,12 @@
+The following files are from the GnuWIn32 project and are covered under the
+Gnu General Public license (GPL). The complete GPL license can be found in
+"GNU GPL.TXT".
+
+      grep.exe
+      sed.exe
+      libiconv2.dll
+      libintl3.dll
+      pcre3.dll
+
+More information on GnuWin32 Packages can be found here:
+http://gnuwin32.sourceforge.net/

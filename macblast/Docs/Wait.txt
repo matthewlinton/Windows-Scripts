@@ -1,0 +1,17 @@
+/************************************************************************/
+/*							----- Wait.exe -----						*/
+/************************************************************************/
+Wait.exe - Copyright (C) 2002 by Egberto Willies.
+ALL RIGHTS RESERVED. (281)360-4232 (http://www.wcscnet.com).
+FREEWARE - This utility may be used and distributed freely.
+
+This utility will pause for the amount of seconds specified
+on the command line. It does not use any CPU cycles while 
+paused. It is excellent to use in batch files that need
+some sort of a delay.
+
+Syntax-
+
+Wait.exe    Time
+
+where time is the number of seconds to delay.

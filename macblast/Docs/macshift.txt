@@ -1,0 +1,3 @@
+macshift is copyrighted under the Gnu General Public license (GPL).
+For more information on macshift go to:
+http://devices.natetrue.com/macshift/

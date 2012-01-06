@@ -1,0 +1,8 @@
+pslist.exe is part of a suite of tools known as PsTools provided by SysInternals.
+Before using PsList, you will be required to agree to the SysInternals EULA.
+
+PsTools can be found here:
+http://www.microsoft.com/technet/sysinternals/Networking/PsTools.mspx
+
+More information about PsTools and SysInternals can be found here:
+http://www.microsoft.com/technet/technetmag/issues/2007/03/DesktopFiles/default.aspx

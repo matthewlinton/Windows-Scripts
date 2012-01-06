@@ -1,0 +1,3 @@
+iPerf is copyrighted under the Gnu General Public license (GPL)
+For more information on iPerf visit:
+http://dast.nlanr.net/Projects/Iperf/

@@ -1,0 +1,5 @@
+creatfil.exe is part of Windows Resource Kit Tools.  This is a set of tools freely distributed by microsoft.
+
+For the most current information about the Windows Resource Kit Tools, see "http://go.microsoft.com/fwlink/?LinkId=286"
+
+creatfil.exe is subject to the licensing terms as described in the URL above.
